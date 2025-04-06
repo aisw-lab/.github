@@ -5,3 +5,4 @@
 rabbitsun2 at gmail dot com<br>
 </h3>
 <br>
+<img src="https://github.com/aisw-lab/.github/blob/master/images/research_area.png" alt="Research Area">
